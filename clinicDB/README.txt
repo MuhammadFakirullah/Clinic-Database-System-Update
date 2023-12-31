@@ -7,8 +7,6 @@ C:\xampp\htdocs
 
 3. run Apache and MySQL on xampp 
 
-4. run the index.php file into web browser to see the system flow, you can type it by inserting this url http://localhost/clinicDB/index.php according to your listening port or host. in my case my host is 80.
+4. run the index.php file into web browser to see the system flow, you can type it by inserting this url http://localhost/clinicDB/index.php according to your listening port or host. in my case my host is 80. 
 
-Attention, this is just a backup file, in case your xampp is crash, at least you already prepared 
-
-
+Note: This file project has been enhanced with additional features and functionality compared to the initial Clinic Database System that was recently uploaded. This represents my personal project undertaken during the internship. Feel free to utilize it for educational purposes.
